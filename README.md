@@ -212,6 +212,8 @@ git clone git@github.com:Ludson96/project-mysql-all-for-one.git
 
 - Nesse projeto utilizei a ferramenta grafica Workbench para criar o banco de dados e executar minhas queries.
 
-> #### Primeiro projeto usando MySQL
+#### Primeiro projeto usando MySQL
 
-> Projeto fornecido pela Trybe
+---
+
+> Projeto fornecido pela Trybe usandoo banco dedados _northwind_
