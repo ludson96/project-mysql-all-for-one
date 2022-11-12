@@ -216,4 +216,4 @@ git clone git@github.com:Ludson96/project-mysql-all-for-one.git
 
 ---
 
-> Projeto fornecido pela Trybe usandoo banco dedados _northwind_
+> Projeto fornecido pela Trybe usando banco dedados _northwind_
