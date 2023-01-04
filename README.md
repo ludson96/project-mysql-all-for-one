@@ -163,7 +163,7 @@ docker-compose up -d
   ---
 ### 22 - Atualize os dados de `discount` do `order_details` para 15.
 
-⚠️ Para testar localmente, pode ser necessário utilização do SAFE UPDATE, porém.
+⚠️ Para testar, pode ser necessário utilização do SAFE UPDATE.
 
   ---
 ### 23 - Atualize os dados da coluna `discount` da tabela `order_details` para 30, onde o valor na coluna `unit_price` seja menor que 10.0000.
