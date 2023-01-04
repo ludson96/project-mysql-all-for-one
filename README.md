@@ -180,7 +180,6 @@ docker-compose up -d
   ---
 ### 27 - Delete todos os dados da tabela `order_details`.
 
----
 </details>
 
 ---
