@@ -1,4 +1,4 @@
-# Repositório do projeto All For One 
+# Repositório do projeto All For One 🤝
  ## Módulo: BACK-END
  
   Repositório possui projeto desenvolvido no período que estive na <b>Trybe</b>, abordando os conceitos de SQL e seus comandos. 
